@@ -18,7 +18,7 @@ Instruções para submeter o desafio:
 ## Sobre o desafio
 
 - Desenvolvimento de um aplicativo para criação de Tarefas.
-- As Tarefas possuem dois atributos: `title` e `prioroty` que indicam o nome e a prioridade da Tarefa respectivamente.
+- As Tarefas possuem dois atributos: `title` e `priority` que indicam o nome e a prioridade da Tarefa respectivamente.
 - Deve-se seguir o layout desenhado neste link do [Figma](https://www.figma.com/file/UKhdZwmWWRFkI1SZ6GrtKX/Desafio-Waterpark?node-id=1821%3A3073).
 - Na listagem de Tarefas as cores das prioridades mudam de acordo com seu nível (Alta, Normal, Baixa)
 
