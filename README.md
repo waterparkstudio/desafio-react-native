@@ -32,7 +32,7 @@ Instruções para submeter o desafio:
 
 Você reberá um usuário para acessar a plataforma.
 
-Para realizar o login faça um `POST` no endpoint `https://wtpk-desafio-api.herokuapp.com` enviando no corpo da requisição o seguinte `json`:
+Para realizar o login faça um `POST` no endpoint `https://wtpk-desafio-api.herokuapp.com/api/auth/` enviando no corpo da requisição o seguinte `json`:
 
 ```json
 {
